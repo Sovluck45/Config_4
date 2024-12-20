@@ -1,0 +1,14 @@
+LOAD Constant=558 Address=42
+READ Address1=4 Address2=50
+WRITE Address1=99 Address2=20
+SQRT Address1=476 Address2=38
+LOAD Constant=25 Address=0
+LOAD Constant=16 Address=1
+LOAD Constant=9 Address=2
+LOAD Constant=4 Address=3
+LOAD Constant=1 Address=4
+SQRT Address1=0 Address2=5
+SQRT Address1=1 Address2=6
+SQRT Address1=2 Address2=7
+SQRT Address1=3 Address2=8
+SQRT Address1=4 Address2=9
